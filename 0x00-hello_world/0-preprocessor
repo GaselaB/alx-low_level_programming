@@ -1,1 +1,2 @@
-c projects from alx
+#!/bin/bash
+gcc $CFILE -E -o c
