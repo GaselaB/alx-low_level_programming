@@ -6,7 +6,7 @@
  * main - function to add variables
  * @argc: number of arguments
  * @argv: arguments being passed
- * Return: Always 0 or 1
+ * Return: Always 0
  */
 int main(int argc, char **argv)
 {
@@ -26,3 +26,4 @@ int main(int argc, char **argv)
 	}
 	printf("%i\n", addition);
 	return (0);
+}
